@@ -19,3 +19,10 @@ chain-zone will potentially allow for easier and more transparent process for bo
 chain-zone will allow both parties to post and exchange documents, notes, reminders and a shared calendar
 
 chain-zone will be a ledger of decisions 
+
+chain-zone will connect all involved parties of planning and building permit process (clients, departments, interested parties)
+
+chain-zone will prompt the user with best next steps, appropriate courses of action and reminders after particular milestones
+
+chain-zone will have professional accredited recognition 
+
